@@ -2,7 +2,7 @@
 title: "VRC Analysis"
 author: "Matt Jorgensen"
 date: "2023-04-15"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
